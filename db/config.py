@@ -1,0 +1,1 @@
+DB_NAME = "students.db"
